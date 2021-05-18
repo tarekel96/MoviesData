@@ -1,10 +1,11 @@
 # CPSC 392 - 04 Final Project
-## a. Names: Emma Chen, Tarek El-Hajjaoui, Jaewon Park
-## b. Student IDs: 2344352, 1902662, 2328614 (same order as names)
-## c. Chapman emails: emchen@chapman.edu, elhaj102@mail.chapman.edu, jaepark@chapman.edu (same order as names)
-## A description of any known compile or runtime errors, code limitations, or deviations from the assignment specification (if applicable): N/A ~ No Known Errors
-## A list of all references used to complete the assignment, including peers (if applicable):
-## References:
+## Group Members: 
+- Emma Chen, id - 2344352, email - emchen@chapman.edu
+- Tarek El-Hajjaoui, id - 1902662, email - elhaj102@mail.chapman.edu
+-  Jaewon Park, id - 2328614, email - jaepark@chapman.edu
+## A description of any known compile or runtime errors, code limitations, or deviations from the assignment specification (if applicable): 
+- N/A ~ No Known Errors
+## List of References:
 - https://www.youtube.com/watch?v=8GdvRNblTqg
 - https://stackoverflow.com/questions/43275983/cant-add-title-to-pie-chart-matplotlib
 - https://stackoverflow.com/questions/3899980/how-to-change-the-font-size-on-a-matplotlib-plot
